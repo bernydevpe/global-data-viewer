@@ -15,5 +15,6 @@
 - **JavaScript (ES6+)**: Para obtener datos, actualizar dinámicamente el DOM e implementar las funcionalidades de búsqueda y ordenación.
 
 
-Puede visualizar el proyecto en: 
+Puede visualizar el proyecto [AQUÍ](https://bernydevpe.github.io/global-data-viewer/)
+
 

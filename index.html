@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Viewer World Countries Data</title>
+    <link rel="stylesheet" href="./css/styles.css">
+    <script src="./js/index.js" defer type="module"></script>
+</head>
+<body>
+    <header>
+        <h1>🗺️ Visualizador de Datos por Países 🌎</h1>        
+    </header>    
+    <section id="controlsDiv">
+        <input type="text" id="txtNameCountry" placeholder="Busca los datos del país por nombre, capital o idioma oficial">
+        <span id="msjError"></span>
+        <div class="wrapper">
+            <button id="btnCountry">Nombre de País</button>
+            <button id="btnCapital">Nombre de Capital</button>
+            <button id="btnLangs">Idioma 🌐</button>
+            <button id="btnSts" hidden>Estadística 📈</button>
+        </div>        
+    </section>
+    <section id="result"></section>
+</body>
+</html>
